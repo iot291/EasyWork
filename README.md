@@ -76,9 +76,7 @@ flutter run
 ## 📸 截图
 | 🎨 深色模式  | 🎨 RGB 自定义颜色 | 📌 窗口置顶 |
 |-------------|----------------|------------|
-| ![image](https://github.com/user-attachments/assets/b2295733-b602-437f-9cac-98d1a1f39227)
- | ![image](https://github.com/user-attachments/assets/58d70438-98c5-4b84-8834-9d020070d10a)
- |![image](https://github.com/user-attachments/assets/c6242004-e2fe-4978-aad4-5e1f3b02badf) |
+| ![image](https://github.com/user-attachments/assets/b2295733-b602-437f-9cac-98d1a1f39227) | ![image](https://github.com/user-attachments/assets/58d70438-98c5-4b84-8834-9d020070d10a) | ![image](https://github.com/user-attachments/assets/c6242004-e2fe-4978-aad4-5e1f3b02badf) |
 
 ---
 
