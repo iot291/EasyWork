@@ -63,7 +63,7 @@ app.*.map.json
 /windows/.dart_tool/
 /linux/.dart_tool/
 /macos/.dart_tool/
-# 测试
+# 测试 2
 
 # Ignore release-builds folder in the main branch
 release-builds/
